@@ -1,136 +1,91 @@
 # Eduardo Molina
 
-Previously known online as Way Silver.
-**Founder & Applied AI Systems Builder · FanFusion Hub LLC**
+**Founder & Applied AI Systems Builder**  
+**Founder & CEO, FanFusion Hub LLC**
 
-I build AI-native platforms designed to solve real problems for businesses, creators, operators and communities — with serious architecture, governance-first thinking and vertical focus.
+I design and direct applied AI systems with a focus on AI agents, model evaluation, data governance, product engineering and verifiable delivery.
 
-My approach: modular, local-first where it matters, agent-governed, auditable and built for real users — not just demos.
+> Build fast. Prove what ships.
 
-> **Private code. Public architecture. Real systems.**
+Previously known online as **Way Silver**. The `waysilver` username is retained while public links and technical history are migrated safely.
 
----
+## What I Do
 
-## What I'm Building
+My work combines product direction, software architecture and agent-assisted delivery. I define the problem, system boundaries, evaluation criteria, governance controls and evidence required before a result can be described as ready.
 
-A portfolio of AI-native platforms under **FanFusion Hub LLC**, spanning SaaS, autonomous agents, strategic intelligence, vertical operating systems and AI-powered commerce.
+AI agents help accelerate implementation and analysis. Sensitive decisions, identity, payments, production activation and other high-impact actions remain human-approved.
 
-Each platform targets a specific problem space with purpose-built architecture. They share a common governance philosophy: control before autonomy, privacy by design and human approval for sensitive operations.
+## Selected Work
 
----
+### ARIA
 
-## Platform Ecosystem
+**Focus:** Governance and evidence infrastructure for agent-assisted software delivery.
 
-### Core Infrastructure
+ARIA explores how multiple agents can work against real repositories while preserving source provenance, review boundaries, auditability and fail-closed approval gates. My work centers on product direction, system architecture, evaluation design and evidence requirements.
 
-**ARIA / ARIA Platform Standard**
-Central AI governance architecture connecting platform-specific agents to a unified control layer. Designed for auditability, memory boundaries, cost observability and secure multi-agent orchestration.
+**Current public claim:** Active private development. Public materials are limited to sanitized architecture and governance evidence.
 
-**A.R.I.A. Markets**
-Local-first mission control for autonomous financial operations. Governance-first design with audit logs, RBAC, kill-switch capabilities and cloud-failure resilience.
+### VEXKIO
 
-**FANFUSION HUB**
-Team-as-a-service infrastructure for governed AI agents. Human-in-the-loop approvals, tenant-level controls and operational trust as a foundation.
+**Focus:** Knowledge graphs, retrieval, embeddings and reproducible applied-ML workflows.
 
----
+VEXKIO combines graph-based knowledge organization with model and embedding evaluation. The work emphasizes traceability, measured outputs and explicit separation between experiments, canaries and production claims.
 
-### AI SaaS Platforms
+**Current public claim:** Active private development and evaluation. Models, datasets and metrics are published only after licensing, privacy and reproducibility review.
 
-**Vexkio / Nekovu**
-AI-powered sales interaction and emotional intelligence platform for real-time commercial perception, omnichannel workflows and privacy-first affective computing.
+### Bokaru
 
-**Nexus Force OS**
-Next-generation emotional CRM. Designed to sense what's happening in customer interactions and trigger intelligent actions across channels.
+**Focus:** Operational software for beauty and wellness businesses.
 
-**ALMA Engine**
-Privacy-first affective computing infrastructure. Processes local signals to produce numeric benchmarks without sending biometric data to external servers.
+Bokaru covers booking and attendance workflows, staff enrollment, communications and operational intelligence. The engineering work prioritizes verified human actions, tenant boundaries and safeguards against turning incomplete operational signals into business facts.
 
-**FanFusion SEO**
-Autonomous SEO operator for WordPress. Diagnoses, executes, monitors and improves SEO workflows for small businesses — without requiring technical expertise.
+**Current public claim:** Private product work. No blanket claim of market adoption, certification or uninterrupted production operation is made here.
 
-**Drokio / Vigía**
-Affordable digital security layer for WooCommerce stores. Focused on SMB protection, bot resistance and simplified operational defense.
+### Tu Maestro
 
----
+**Focus:** Lead intake, fair distribution and operational reconciliation.
 
-### Vertical Platforms
+Tu Maestro includes roster-driven lead allocation, visible exclusion reasons, communication handoffs and payment reconciliation workflows. The core design principle is fairness: eligible participants should receive one opportunity per round before repeats.
 
-**Mystika Universal**
-Spiritual technology and symbolic intelligence platform. AI avatars, oracle sessions, personal journaling, cyclical intelligence, layered security and structured transformation journeys.
+**Current public claim:** Private operational platform with production-readiness and external-provider gates evaluated separately.
 
-**Buscahuella**
-Digital identity and collaborative search platform for pets in Latin America. Connects owners, veterinarians, services and recovery workflows.
+## How I Substantiate Claims
 
-**FUVIHUB**
-Strategic intelligence platform. Transforms data, structure, context and projection into decision-making advantage.
+- A feature is not called production-ready because a demo works.
+- A green test suite is evidence about the tested scope, not proof of real-world outcomes.
+- Live service health, data integrity, provider connectivity and business results are reported separately.
+- Public artifacts must be sanitized, licensed and security-reviewed.
+- Limitations, unresolved gates and corrections are part of the record.
+- Human approval remains mandatory for identity, consent, payments and irreversible production actions.
 
-**RaitesHub**
-Operating system for the Hispanic intercity mobility market in the United States.
+## Areas of Practice
 
-**Zona Utility**
-Bilingual utility platform for Latin American entrepreneurs — tools, blog, news and SEO-driven acquisition with a freemium monetization model.
+- AI agents and agentic workflows
+- Model evaluation and promotion gates
+- Data governance, licensing and traceability
+- Product engineering and software architecture
+- Multi-tenant systems
+- Knowledge graphs and retrieval
+- Automation with fail-closed controls
+- Production-readiness verification
 
-**Bokaru**
-Beauty and wellness operating system for bookings, salons, independent professionals, loyalty programs and chair rentals.
+## Public Evidence
 
----
+- [FanFusion Hub LLC on GitHub](https://github.com/fanfusionhub)
+- [FanFusion Hub LLC on Hugging Face](https://huggingface.co/fanfusionhub)
+- [Eduardo Molina on Hugging Face](https://huggingface.co/waysilvernft)
+- [ORCID: 0009-0007-0260-4288](https://orcid.org/0009-0007-0260-4288)
+- [Google Developer Profile](https://g.dev/eduardomolinaai)
+- [LinkedIn](https://www.linkedin.com/in/eduardomolinaai/)
+- [YouTube](https://www.youtube.com/@eduardomolinaai)
 
-## Architecture Philosophy
+## Publication Policy
 
-| Principle | Application |
-|---|---|
-| Control before autonomy | Agents must be governed, observable and auditable |
-| Privacy by design | Sensitive data minimized, isolated and protected from the start |
-| Architecture before advertising | Real systems need structure, not just prompts |
-| Local-first when it matters | Critical operations don't blindly depend on cloud providers |
-| Human approval for sensitive actions | Autonomy should amplify judgment, not eliminate accountability |
-| Product execution over theory | Every platform must orient toward users, revenue and operational proof |
-| Public transparency, private IP | Architecture can be shared without exposing core systems |
-
----
-
-## What This Repository Represents
-
-This public layer is a **curated architecture showcase** — not a product blueprint.
-
-You'll find here:
-- High-level architecture notes and standards
-- Product case studies and build logs
-- AI SaaS strategy frameworks
-- Founder notes on building AI-native systems
-- Safe demos and visual documentation
-
-What you won't find: core code, internal prompts, models, data pipelines, security logic or competitive implementation details. Those live behind access controls, as they should.
-
----
-
-## Current Focus
-
-Developing the public architecture layer for the FANFUSION HUB ecosystem:
-
-- Technical standards and governance frameworks
-- Product case studies
-- Architecture diagrams (high-level)
-- AI SaaS strategy playbooks
-- Build logs from real platforms
-
----
-
-## Long-Term Vision
-
-A portfolio of AI-native platforms that help businesses, creators, operators and communities use artificial intelligence with greater control, intelligence, automation and strategic advantage.
-
-Areas of deep interest: AI governance, autonomous enterprise systems, agent-based infrastructure, strategic intelligence, sales automation, privacy-first perception systems, vertical SaaS, Latin American digital products and AI-powered operating systems for real industries.
-
----
+Most implementation repositories remain private while they undergo security, licensing and intellectual-property review. Public releases will include a clear version, scope, license, limitations and reproducible evidence where applicable.
 
 ## Contact
 
-**Founder:** Eduardo Molina  
-**Company:** FanFusion Hub LLC  
-**Public:** [@waysilvernft](https://x.com/waysilvernft)  
-**Website:** [fanfusionhub.com](https://fanfusionhub.com)
+Professional and technical inquiries: [LinkedIn](https://www.linkedin.com/in/eduardomolinaai/)
 
----
-
-*Enough to make you want to talk. Not enough to replace the work.*
+**FanFusion Hub LLC**  
+Applied AI systems, agentic software delivery and verifiable product infrastructure.
