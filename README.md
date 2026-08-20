@@ -1,6 +1,7 @@
-# Way Silver
+# Eduardo Molina
 
-**Founder & AI Systems Architect · FANFUSION HUB, LLC**
+Previously known online as Way Silver.
+**Founder & Applied AI Systems Builder · FanFusion Hub LLC**
 
 I build AI-native platforms designed to solve real problems for businesses, creators, operators and communities — with serious architecture, governance-first thinking and vertical focus.
 
@@ -12,7 +13,7 @@ My approach: modular, local-first where it matters, agent-governed, auditable an
 
 ## What I'm Building
 
-An ecosystem of 13 AI-native platforms under **FANFUSION HUB, LLC**, spanning SaaS, autonomous agents, strategic intelligence, vertical operating systems and AI-powered commerce.
+A portfolio of AI-native platforms under **FanFusion Hub LLC**, spanning SaaS, autonomous agents, strategic intelligence, vertical operating systems and AI-powered commerce.
 
 Each platform targets a specific problem space with purpose-built architecture. They share a common governance philosophy: control before autonomy, privacy by design and human approval for sensitive operations.
 
@@ -126,7 +127,7 @@ Areas of deep interest: AI governance, autonomous enterprise systems, agent-base
 ## Contact
 
 **Founder:** Way Silver  
-**Company:** FANFUSION HUB, LLC  
+**Company:** FanFusion Hub LLC  
 **Public:** [@waysilvernft](https://x.com/waysilvernft)  
 **Website:** [fanfusionhub.com](https://fanfusionhub.com)
 
