@@ -1,4 +1,4 @@
-# Eduardo Molina
+# Eduardo Molina AI
 
 **Founder & Applied AI Systems Builder**  
 **Founder & CEO, FanFusion Hub LLC**
@@ -6,8 +6,6 @@
 I design and direct applied AI systems with a focus on AI agents, model evaluation, data governance, product engineering and verifiable delivery.
 
 > Build fast. Prove what ships.
-
-Previously known online as **Way Silver**. The `waysilver` username is retained while public links and technical history are migrated safely.
 
 ## What I Do
 
@@ -73,7 +71,7 @@ Tu Maestro includes roster-driven lead allocation, visible exclusion reasons, co
 
 - [FanFusion Hub LLC on GitHub](https://github.com/fanfusionhub)
 - [FanFusion Hub LLC on Hugging Face](https://huggingface.co/fanfusionhub)
-- [Eduardo Molina on Hugging Face](https://huggingface.co/waysilvernft)
+- [X](https://x.com/eduardomolinaai)
 - [ORCID: 0009-0007-0260-4288](https://orcid.org/0009-0007-0260-4288)
 - [Google Developer Profile](https://g.dev/eduardomolinaai)
 - [LinkedIn](https://www.linkedin.com/in/eduardomolinaai/)
