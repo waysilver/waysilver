@@ -39,14 +39,6 @@ Bokaru covers booking and attendance workflows, staff enrollment, communications
 
 **Current public claim:** Private product work. No blanket claim of market adoption, certification or uninterrupted production operation is made here.
 
-### Tu Maestro
-
-**Focus:** Lead intake, fair distribution and operational reconciliation.
-
-Tu Maestro includes roster-driven lead allocation, visible exclusion reasons, communication handoffs and payment reconciliation workflows. The core design principle is fairness: eligible participants should receive one opportunity per round before repeats.
-
-**Current public claim:** Private operational platform with production-readiness and external-provider gates evaluated separately.
-
 ## How I Substantiate Claims
 
 - A feature is not called production-ready because a demo works.
