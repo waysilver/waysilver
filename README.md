@@ -126,7 +126,7 @@ Areas of deep interest: AI governance, autonomous enterprise systems, agent-base
 
 ## Contact
 
-**Founder:** Way Silver  
+**Founder:** Eduardo Molina  
 **Company:** FanFusion Hub LLC  
 **Public:** [@waysilvernft](https://x.com/waysilvernft)  
 **Website:** [fanfusionhub.com](https://fanfusionhub.com)
